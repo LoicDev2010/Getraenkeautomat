@@ -1,4 +1,4 @@
-# 🥤 Getränkeautomat
+# Getränkeautomat
 
 Ein in Bash geschriebenes Skript, das den Ablauf eines Getränkeautomaten simuliert – von der Zahlung über die Getränkeauswahl bis zur Ausgabe.
 
@@ -38,7 +38,3 @@ chmod +x Getraenkeautomat.sh
 ## Autor
 
 **Loïc Deverin** – [Portfolio](https://loicdeverin.vercel.app)
-
-## Lizenz
-
-Noch keine Lizenz definiert.
